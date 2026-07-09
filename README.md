@@ -9,7 +9,7 @@ FPGA Sum Game is a game of knowledge on binary and hexadecimal numbers. During t
 ## Key Features
 
 - Single-user authentication using ID.
-- Pseudo-random generation using an LFSR.
+- Pseudo-random generation.
 - Finite State Machine (FSM) controlling the game flow.
 - Score tracking.
 - Countdown timer for gameplay.
@@ -32,10 +32,9 @@ FPGA Sum Game is a game of knowledge on binary and hexadecimal numbers. During t
 
 ## Documentation
 
-- [User Manual](UserManual_ElectricBugaloo.pdf)
-- [Design Document](DesignDocument_ElectricBugaloo.pdf)
+- [User Manual](userManual_Lab3_DEOLIVEIRAVENANCIO_Victor.docx)
+- [Design Document](designDoc_Lab3_DEOLIVEIRAVENANCIO_Victor.docx)
 
 ## Videos
 
-- [Presentation](https://1drv.ms/v/c/4b1bf38c88435a6d/IQA5hnCKV3zwQauoOj2K0x9YAZnLpe9W0z_-TdbJSuyopu4?e=JpbPya)
-- [Demonstration](https://drive.google.com/file/d/1rsnwzx_ce7sVm7Y996I0xKETXAT0S2v1/view)
+- [Demonstration](https://drive.google.com/file/d/1HiRbVAlXNJ48m4y17WinU6Nvm92eGyte/view?usp=sharing)
