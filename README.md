@@ -32,8 +32,8 @@ FPGA Sum Game is a game of knowledge on binary and hexadecimal numbers. During t
 
 ## Documentation
 
-- [User Manual](userManual_Lab3_DEOLIVEIRAVENANCIO_Victor.docx)
-- [Design Document](designDoc_Lab3_DEOLIVEIRAVENANCIO_Victor.docx)
+- [User Manual](userManual_Lab3_DEOLIVEIRAVENANCIO_Victor.pdf)
+- [Design Document](designDoc_Lab3_DEOLIVEIRAVENANCIO_Victor.pdf)
 
 ## Videos
 
